@@ -1,6 +1,9 @@
 # Kakoune static
 
-This Dockerfile uses Alpine Linux to build a static version of [kakoune](https://github.com/mawww/kakoune)
+This Dockerfile uses Alpine Linux to build a static version of 
+
+- [kakoune](https://github.com/mawww/kakoune)
+- [ctags](https://github.com/universal-ctags/ctags)
 
 In order to use it you should run
 ```
